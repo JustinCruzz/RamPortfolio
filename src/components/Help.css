@@ -1,0 +1,16 @@
+.flexed{
+    display: flex;
+    justify-content: center;
+}
+.fontfamily{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.textalign{
+    text-align: center;
+}
+.bgcolor{
+    background-color: cyan;
+}
+.maxwidht{
+    max-width: 100vw;
+}
